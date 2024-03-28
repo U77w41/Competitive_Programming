@@ -1,5 +1,4 @@
-
-Verbs Related to Responsibility:
+## Verbs Related to Responsibility:
 
 administered
 chaired
@@ -16,7 +15,7 @@ supervised
 took the responsibility of
 
 
-Verbs Related to Tasks:
+## Verbs Related to Tasks:
 
 accelerated
 activated

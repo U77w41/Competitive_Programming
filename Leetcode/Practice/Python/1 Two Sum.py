@@ -9,4 +9,3 @@ class Solution(object):
             for j in xrange(i + 1, len(nums)):
                 if nums[i] + nums[j] == target:
                     return [i, j]
-        
